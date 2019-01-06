@@ -2,6 +2,8 @@ import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 
+
+
 public class Day1 implements Runnable {
 
 	private static final String INPUT_FILE_URL = "https://adventofcode.com/2018/day/1/input";
